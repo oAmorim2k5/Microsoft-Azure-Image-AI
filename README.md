@@ -13,8 +13,8 @@
 With this we can do scanners, accessible software for everyone.
 
 ## ✍️ Test
-
-
+![alt text](img/imgtest1.png)
+![alt text](img/immmg.png)
 ## 📖 Documentation
 
 - [**Microsoft: Azure doc**](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-ocr)
